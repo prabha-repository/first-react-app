@@ -12,14 +12,6 @@ function App() {
 
     <div>
       < Header />
-      < Header />
-      < Header />
-      < Header />
-      < Header />
-      < Header />
-      < Header />
-      < Header />
-      < Header />
       < Content />
       < Footer />
       < Html />
